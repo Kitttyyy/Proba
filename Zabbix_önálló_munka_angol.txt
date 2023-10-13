@@ -1,0 +1,28 @@
+A feladat: elolvasni egy angol dokumentációt
+egy termékről és azt szóban összefoglalni.
+Demonstrálni, hogy használni tudod az angol
+nyelvű szakirodalmat.
+
+Az anyag: Zabbix 6 Cookbook
+
+Mindekinek egy fejezetet az oktató jelöl ki,
+és aki 5-ös érdemjegyet szeretne, az válasszon
+magának mégegy másik fejezetet is.
+
+A fejezetek felosztása:
+
+1. fejezet: Kármán Szilárd
+2. fejezet: Szarvas Márton
+3. fejezet: Rózsa Alexandra
+4. fejezet: Balatoni Kitti
+5. fejezet: Dóri Krisztián         !
+6. fejezet: Nagy Attila
+7. fejezet: Harasztosi Balázs
+8. fejezet: Bálványos Szilárd      !
+9. fejezet: Hertelendy Kristóf
+10.fejezet: Steigerwald Eszter
+11.fejezet: Pálóczi Zsuzsanna      !
+12.fejezet: Kovács Dávid Balázs
+13.fejezet: Vanyek Máté Zoltán
+14. Bármelyik fejezet: Nagy Balázs !
+
